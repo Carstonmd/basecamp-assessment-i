@@ -25,7 +25,7 @@
 // #7 Create an if statement that checks the age variable below. If age is greater than 16, then set canDrive to true otherwise set canDrive to false. The canDrive variable will be set by the unit test so do not adjust it.
 var age = 18;
 var canDrive;
-
+var cat = 99;
 
 // CODE HERE
 
